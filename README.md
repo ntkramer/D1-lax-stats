@@ -15,6 +15,7 @@ Data Source: NCAA Division I Men's Lacrosse 2023 season statistics from the SCOR
 Analytical Tools: Multiple linear regression analyses to identify statistically significant predictors of team success. 
 Visualization: Tableau dashboards to explore and illustrate relationships between variables and win percentages.
 
+Key Findings: 
 Below is the research and visual for offensive performance: 
 Key: Color is based on shooting percentage which is the percentage of shots that hit the goal during the game (lighter = not effecient, darker = very effecient).
 Size of circles is based on average golas per game (smaller = less goals, larger = more goals).
@@ -33,3 +34,7 @@ Key: Color is based on clearing percentage (lighter = not effecient, darker = ve
 Size of circles is based on number of face off wins (smaller = less wins, bigger = more wins).
 <img width="597" alt="Screenshot 2025-04-20 at 7 35 15 PM" src="https://github.com/user-attachments/assets/4c70fd95-9a2f-40cc-9157-6ae3da90e1a2" />
 <img width="1082" alt="Screenshot 2025-04-20 at 7 37 57 PM" src="https://github.com/user-attachments/assets/5bcfd934-f985-4ee6-ac65-c7b3b3432a2c" />
+
+Recommendations:
+Based on our findings, I would recommended teams to be well rounded in every aspect of lacrosse, but specifically with shooting percentage and clearing percentage. I would implement and clear that will consitently work and spend more time on it during practices. Also, for shooting perecentage I would have offensive players shoot for the first 15-30 minutes of practice, therefore it will result with more shots on goal during the game.
+With these changes in practice, it will result in a lacrosse team winning more lacrosse games during a season.
