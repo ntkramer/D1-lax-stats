@@ -15,15 +15,21 @@ Data Source: NCAA Division I Men's Lacrosse 2023 season statistics from the SCOR
 Analytical Tools: Multiple linear regression analyses to identify statistically significant predictors of team success. 
 Visualization: Tableau dashboards to explore and illustrate relationships between variables and win percentages.
 
-Below is the research and visual for offensive performance:
+Below is the research and visual for offensive performance: 
+Key: Color is based on shooting percentage which is the percentage of shots that hit the goal during the game (lighter = not effecient, darker = very effecient).
+Size of circles is based on average golas per game (smaller = less goals, larger = more goals).
 <img width="593" alt="Screenshot 2025-04-20 at 7 35 40 PM" src="https://github.com/user-attachments/assets/790460e6-5182-40b3-93de-f977e7de7d1b" />
 <img width="1064" alt="Screenshot 2025-04-20 at 7 37 04 PM" src="https://github.com/user-attachments/assets/60c3d9ce-c343-4703-9afd-3ff0bca9c76e" />
 
 Below is the research and visual for defensive performance:
+Key: Color is based on average caused turnovers per game (lighter = not effecient, darker = very effecient).
+Size of circles is based on man down defense success percentage (smaller = not effecient, larger = very effecient).
 <img width="589" alt="Screenshot 2025-04-20 at 7 35 59 PM" src="https://github.com/user-attachments/assets/02532ffc-b7f9-4ec7-96cf-eebbfff9a5dd" />
-<img width="1063" alt="Screenshot 2025-04-20 at 7 37 30 PM" src="https://github.com/user-attachments/assets/e452d063-f45c-42d8-9d99-8bc10866761d" />
+<img width="1126" alt="Screenshot 2025-04-20 at 7 46 27 PM" src="https://github.com/user-attachments/assets/17b52ce8-aa44-494a-be4d-96d9f328471c" />
+
 
 Below is the research and visual for volume of possessions:
-
+Key: Color is based on clearing percentage (lighter = not effecient, darker = very effecient).
+Size of circles is based on number of face off wins (smaller = less wins, bigger = more wins).
 <img width="597" alt="Screenshot 2025-04-20 at 7 35 15 PM" src="https://github.com/user-attachments/assets/4c70fd95-9a2f-40cc-9157-6ae3da90e1a2" />
 <img width="1082" alt="Screenshot 2025-04-20 at 7 37 57 PM" src="https://github.com/user-attachments/assets/5bcfd934-f985-4ee6-ac65-c7b3b3432a2c" />
