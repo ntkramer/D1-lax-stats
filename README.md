@@ -1,4 +1,4 @@
-BUS-446-Group-CN
+BUS-446 Group-CN
 
 Nick Kramer and Cassell Richardson
 
