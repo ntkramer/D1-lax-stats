@@ -29,7 +29,7 @@ Below is the research and visual for offensive performance:
 Key: Color is based on shooting percentage which is the percentage of shots that hit the goal during the game (lighter = not effecient, darker = very effecient).
 Size of circles is based on average golas per game (smaller = less goals, larger = more goals).
 <img width="593" alt="Screenshot 2025-04-20 at 7 35 40 PM" src="https://github.com/user-attachments/assets/790460e6-5182-40b3-93de-f977e7de7d1b" />
-<img width="1064" alt="Screenshot 2025-04-20 at 7 37 04 PM" src="https://github.com/user-attachments/assets/60c3d9ce-c343-4703-9afd-3ff0bca9c76e" />
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/71ecf405-4b8d-4e78-8817-a01b32a9b6b8" />
 
 
 Below is the research and visual for defensive performance:
