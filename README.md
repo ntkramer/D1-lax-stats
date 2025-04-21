@@ -1,5 +1,7 @@
-**#BUS 446 Group CN**
+BUS 446 Group CN
+
 Nick Kramer and Cassell Richardson
+
 NCAA D1 Men's Lacrosse stats 2023 and analysis
 
 
